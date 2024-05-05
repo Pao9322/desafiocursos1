@@ -1,0 +1,31 @@
+[
+    {
+      "model": "desafio2.Estudiante",
+      "pk": 1,
+      "fields": {
+        "rut": "ABC123",
+        "nombre": "Paola",
+        "apellido": "Paola",
+        "fecha_nacimiento": "1993-01-01",
+        "activo": true,
+        "creacion_registro": "2024-05-02T00:00:00Z",
+        "modificacion_registro": "2024-05-02T00:00:00Z",
+        "creado_por": "Paola A"
+      }
+    },
+
+    {
+      "model": "desafio2.Profesor",
+      "pk": 1,
+      "fields": {
+        "rut": "123456789",
+        "nombre": "Juan",
+        "apellido": "Perez",
+        "activo": true,
+        "creacion_registro": "2024-05-02T00:00:00Z",
+        "modificacion_registro": "2024-05-02T00:00:00Z",
+        "creado_por": "Juan P"
+      }
+    }
+
+]

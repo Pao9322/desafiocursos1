@@ -1,0 +1,26 @@
+[
+  {
+      "model": "desafio2.Direccion",
+      "pk": 1,
+      "fields": {
+        "calle": "Calle 123",
+        "numero": "123",
+        "dpto": "A",
+        "comuna": "Santiago",
+        "ciudad": "Santiago",
+        "region": "Metropolitana",
+        "estudiante": "ABC123"
+      }
+    },
+
+    {
+      "model": "desafio2.Curso",
+      "pk": 1,
+      "fields": {
+        "codigo": "CURSO1",
+        "nombre": "Curso de Matemáticas",
+        "version": "1",
+        "profesor": "123456789"
+      }
+    }
+]
